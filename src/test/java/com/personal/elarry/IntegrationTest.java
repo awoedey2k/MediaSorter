@@ -1,6 +1,6 @@
 package com.personal.elarry;
 
-import com.personal.elarry.MediaSorterApp;
+//import com.personal.elarry.MediaSorterApp;
 import com.personal.elarry.config.AsyncSyncConfiguration;
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
